@@ -5,7 +5,7 @@ This project has 2 folders: **client** (React) and **api** (Express)
 In each folder, just setup and run with npm:
 ```
 npm install
-npm run
+npm start
 ```
 
 **Client** will run in port 3000
